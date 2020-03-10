@@ -1,6 +1,6 @@
 # social_media
 
-A social media app mimics FB app some fundamental features: 
+A social media app mimics FB app with fundamental features: 
 
 . set up profiles, edit profiles, delete profiles
 . send posts, edit posts, delete posts 
